@@ -8,6 +8,6 @@ inter_time = setInterval(function(){
   // var day = data.getDate();
 
   p_time.innerText = data.toLocaleString();
-  console.log(data.toLocaleString());
-  console.log(p_time);
+  // console.log(data.toLocaleString());
+  // console.log(p_time);
 }, 500);
